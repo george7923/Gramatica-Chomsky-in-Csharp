@@ -1,0 +1,14 @@
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\bin\Debug\net7.0\Proiect 2 - Gramatica.exe
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\bin\Debug\net7.0\Proiect 2 - Gramatica.deps.json
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\bin\Debug\net7.0\Proiect 2 - Gramatica.runtimeconfig.json
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\bin\Debug\net7.0\Proiect 2 - Gramatica.dll
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\bin\Debug\net7.0\Proiect 2 - Gramatica.pdb
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.AssemblyInfo.cs
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.dll
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\refint\Proiect 2 - Gramatica.dll
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.pdb
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\Proiect 2 - Gramatica.genruntimeconfig.cache
+C:\Users\George\source\repos\Proiect 2 - Gramatica\Proiect 2 - Gramatica\obj\Debug\net7.0\ref\Proiect 2 - Gramatica.dll
